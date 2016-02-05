@@ -1,9 +1,10 @@
 {
-  "name": "Phone Cat",
+  "name": "The Hand",
   "version": "1.0.0",
   "dependencies": {
-    "angular": "1.4.9",
+    "angular-common": "git://github.com/alizarion/angular-common.git#gh-pages",
     "bootstrap": "3.3.6",
     "angular-resource": "1.4.9"
   }
 }
+
